@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Sony PlayStation 2",
+    "description": "Used console",
+    "price": 123.00
+  },
+  {
+    "id": "2",
+    "name": "Sony PlayStation 1",
+    "description": "Used console",
+    "price": 30.00
+  },
+  {
+    "id": "3",
+    "name": "Sony PlayStation 3",
+    "description": "Used console",
+    "price": 223.00
+  },
+  {
+    "id": "4",
+    "name": "Sony PlayStation 4",
+    "description": "Used console",
+    "price": 345.00
+  }
+]
